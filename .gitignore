@@ -123,3 +123,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+.pypirc
+upgrade.bat
+upload_to_pypi.bat
